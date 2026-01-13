@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (you can relax this later)
+data/*.csv
+data/*.parquet
+
+# OS / editor
+.DS_Store
+.vscode/
