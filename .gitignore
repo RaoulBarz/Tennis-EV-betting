@@ -15,3 +15,8 @@ data/*.parquet
 # OS / editor
 .DS_Store
 .vscode/
+
+data/raw/
+data/processed/
+data/external
+
